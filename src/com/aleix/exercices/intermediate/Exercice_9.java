@@ -4,6 +4,7 @@ import static java.lang.Integer.parseInt;
 
 /**
  * Crea un método que determine si un número es primo.
+ * Extra: Programa que liste todos los números primos del 1 al 100.
  */
 
 public class Exercice_9 {
