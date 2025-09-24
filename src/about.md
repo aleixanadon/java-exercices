@@ -2,28 +2,28 @@
 
 ## Basic exercises:
 
-1. Escribe un programa en Java que imprima "Hola Mundo" en consola. 
-2. Pide un número por consola y determina si es par o impar.
-3. Lee dos números enteros e imprime cuál es el mayor (o si son iguales).
-4. Dado un número n, imprime su tabla de multiplicar del 1 al 10.
-5. Pide un número N y calcula la suma de todos los enteros desde 1 hasta N.
+1. Write a Java program that prints "Hello World" to the console.
+2. Request a number from the console and determine if it is odd or even.
+3. Read two integers and print which is greater (or if they are equal).
+4. Given a number n, print its multiplication table from 1 to 10.
+5. Request a number N and calculate the sum of all the integers from 1 to N.
 
 ## Intermediate exercises:
 
-6. Pide una palabra y muestra su versión invertida (ejemplo: "java" → "avaj").
-7. Verifica si una palabra es un palíndromo (ejemplo: "oso", "ana", "reconocer").
-8. Cuenta cuántas vocales hay en una cadena de texto.
-9. Crea un método que determine si un número es primo.
-10. Dado un array de enteros, ordénalo de menor a mayor.
-11. Dada una matriz n x m, imprimir su transpuesta.
+6. Request a word and display its reversed version (e.g., "java" → "avaj").
+7. Check if a word is a palindrome (e.g., "bear," "ana," "recognize").
+8. Count the number of vowels in a text string.
+9. Create a method that determines if a number is prime.
+10. Given an array of integers, sort it from smallest to largest.
+11. Given an n x m matrix, print its transpose.
 
 ## Advanced exercises
 
-12. Sistema de gestión de alumnos (POO)
-* Clase Alumno con atributos nombre, edad, nota.
-* Métodos para obtener/mostrar datos.
-* Programa principal que maneje un ArrayList<Alumno> y muestre el promedio de notas.
+12. Student Management System (OOP)
+* Student class with attributes name, age, and grade.
+* Methods to retrieve/display data.
+* Main program that handles an ArrayList<Student> and displays the grade point average.
 
-13. Banco simple (POO + colecciones)
-* Clase CuentaBancaria con saldo y métodos depositar() y retirar().
-* Simula operaciones de varias cuentas usando un HashMap.
+13. Simple Bank (OOP + collections)
+* BankAccount class with balance and deposit() and withdraw() methods.
+* Simulates multi-account transactions using a HashMap.
